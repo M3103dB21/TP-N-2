@@ -18,7 +18,7 @@ while 1:
 	print sentence
   ```
   
- ### Creation d'un client TCP
+### Creation d'un client TCP
 
 Le client permet d'envoyer un message au serveur, dans notre cas, ou à n'importe quel adresse IP : Port.
 ```Python
